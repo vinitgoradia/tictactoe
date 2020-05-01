@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tictactoe/static/css/main.fb910d29.chunk.css",
+    "main.js": "/tictactoe/static/js/main.7e314456.chunk.js",
+    "main.js.map": "/tictactoe/static/js/main.7e314456.chunk.js.map",
+    "runtime-main.js": "/tictactoe/static/js/runtime-main.37eed22a.js",
+    "runtime-main.js.map": "/tictactoe/static/js/runtime-main.37eed22a.js.map",
+    "static/js/2.93a4c239.chunk.js": "/tictactoe/static/js/2.93a4c239.chunk.js",
+    "static/js/2.93a4c239.chunk.js.map": "/tictactoe/static/js/2.93a4c239.chunk.js.map",
+    "index.html": "/tictactoe/index.html",
+    "precache-manifest.bd8704be9a5d138d3f93b12eb5c3bb69.js": "/tictactoe/precache-manifest.bd8704be9a5d138d3f93b12eb5c3bb69.js",
+    "service-worker.js": "/tictactoe/service-worker.js",
+    "static/css/main.fb910d29.chunk.css.map": "/tictactoe/static/css/main.fb910d29.chunk.css.map",
+    "static/js/2.93a4c239.chunk.js.LICENSE.txt": "/tictactoe/static/js/2.93a4c239.chunk.js.LICENSE.txt",
+    "static/media/icon_logo.jpg": "/tictactoe/static/media/icon_logo.bba201b1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37eed22a.js",
+    "static/js/2.93a4c239.chunk.js",
+    "static/css/main.fb910d29.chunk.css",
+    "static/js/main.7e314456.chunk.js"
+  ]
+}
